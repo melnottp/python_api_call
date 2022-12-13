@@ -114,7 +114,7 @@ Here is an example of how to configure an IAM Agency to allow FunctionGraph to a
   - Validy Period : Unlimited
 - Then attach the Agency to your domain/project
 
-agency.png
+![](images/agency.png)
 
 
 
