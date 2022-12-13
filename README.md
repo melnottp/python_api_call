@@ -22,11 +22,13 @@ You can find our related documentation on our online Helpcenter : https://docs.p
 
 In FE console, under Computing, Select FunctionGraph
 
-
+![](images/console.png)
 
 In FunctionGraph menu, select Functions then Functions List
 
 and Create Function
+
+![](images/create_function.png)
 
 ### Settings
 
@@ -37,6 +39,8 @@ Select the agency created previously
 Select Python 3.6 as Runtime
 
 Then click on Create Function
+
+![](images/create_from_scratch.png)
 
 ### Code
 
@@ -118,7 +122,7 @@ After creating your IAM Agency, go back to your Function configuration and selec
 
 Finally you can also customize the function's associated Memory ,Execution Timeout and Environment variable... 
 
-Configuration.png
+![](images/configuration.png)
 
 ### Test
 
@@ -126,7 +130,7 @@ Now we can test our function with Test button at the top right of the screen.
 
 If everything is well configured, resultat shoud look as below :
 
-test.png
+![](images/test.png)
 
 
 
@@ -146,4 +150,4 @@ More details about Cron expressions :
 
 https://docs.prod-cloud-ocb.orange-business.com/usermanual/functiongraph/functiongraph_01_0908.html
 
-Trigger.png
+![](images/trigger.png)
