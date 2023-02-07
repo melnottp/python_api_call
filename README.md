@@ -128,7 +128,7 @@ Finally you can also customize the function's associated Memory ,Execution Timeo
 
 Now we can test our function with Test button at the top right of the screen.
 
-If everything is well configured, resultat shoud look as below :
+If everything is well configured, results shoud look as below :
 
 ![](images/test.png)
 
