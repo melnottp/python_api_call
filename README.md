@@ -67,7 +67,7 @@ def handler (event, context):
      
     
     print("Hibernate CCE latest cluster")
-    url = f"https://cce.{Endpoint}/api/v3/projects/{Project}/clusters/YOUR_CLUSTER_ID/operation/awake"
+    url = f"https://cce.{Endpoint}/api/v3/projects/{Project}/clusters/YOUR_CLUSTER_ID/operation/hibernate"
     payload={}
     headers = {
     'Content-Type': 'application/json',
